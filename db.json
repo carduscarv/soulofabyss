@@ -1,0 +1,64 @@
+{
+  "enemy": [
+    {
+      "id": 1,
+      "name": "Satan",
+      "damage": 4,
+      "speed": 2,
+      "type": "ground",
+      "bounty": 300,
+      "description": "The soul of demon king, but it lost the true power and being weak."
+    },
+    {
+      "id": 2,
+      "name": "Blaze",
+      "damage": 4,
+      "speed": 3,
+      "type": "ground",
+      "bounty": 400,
+      "description": "Born from hellfire, Kill another with the Infinite rotation."
+    },
+    {
+      "id": 3,
+      "name": "Bunny",
+      "damage": 2,
+      "speed": 4,
+      "type": "ground",
+      "bounty": 500,
+      "description": "Legends whose killed the Jungle King, return to killing with fast-strike."
+    },
+    {
+      "id": 4,
+      "name": "Flying Slime",
+      "damage": 3,
+      "speed": 3,
+      "type": "flying",
+      "bounty": 450,
+      "description": "An Extraordinary slime whose can fly! Its the King of all slime, chase anyone who opposed it"
+    },
+    {
+      "id": 5,
+      "name": "Catto",
+      "damage": 1,
+      "speed": 6,
+      "type": "flyng",
+      "bounty": 700,
+      "description": "Soul of greatest cat. The fastest enemies with highest bounty reward!"
+    }
+  ],
+  "random": [
+    {
+      "id": 1,
+      "body": "kajshdkjahd",
+      "something": "hjasbdbaj"
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "something": "kjdskjfkjs"
+    }
+  ],
+  "hiscore": {
+    "hiscore": 999999
+  }
+}
